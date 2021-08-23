@@ -4,7 +4,7 @@
 - 📫 How to reach me:
      - email: epbehrends@gmail.com
      - website: https://ethanbehrends.com
-- 👾 Check out my resume![Ethan Behrends - Resume.pdf](https://github.com/EthanBehrends/EthanBehrends/files/7035120/Ethan.Behrends.-.Resume.pdf)
+- 👾 [Check out my resume!](https://github.com/EthanBehrends/EthanBehrends/files/7035120/Ethan.Behrends.-.Resume.pdf)
 
 <!---
 EthanBehrends/EthanBehrends is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
