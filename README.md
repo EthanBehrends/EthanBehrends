@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @EthanBehrends
-- 👀 I’m interested in Full-Stack web and app development
-- 🌱 I’m currently learning UI/UX Fundamentals
-- 📫 How to reach me:
-     - email: epbehrends@gmail.com
-     - website: https://ethanbehrends.com
-- 👾 [Check out my resume!](https://ethanbehrends.com/assets/Ethan_Behrends_Resume.pdf)
+👨‍💻 Ethan Behrends
+🚀 Software Engineer | 💻 Full-stack Web Dev
+🌐 Creator of web magic with Next.js & SvelteKit
+🤖 AI enthusiast
 
-<!---
-EthanBehrends/EthanBehrends is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 Explore my projects at [ethanbehrends.com](https://ethanbehrends.com)
+💡 Turning caffeine into code since 2015
+
+📌 Let's build a digital world together! 🌟
